@@ -1,0 +1,46 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    padding: 30px;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+}
+
+/* Box for each section */
+.box {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+/* Input and textarea */
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+/* Textarea height */
+textarea {
+    height: 120px;
+}
+
+/* Button */
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+/* File list */
+li {
+    margin: 10px 0;
+}
